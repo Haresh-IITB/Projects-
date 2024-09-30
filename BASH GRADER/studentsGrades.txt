@@ -1,0 +1,186 @@
+23b0901,Kaushal Vijayvergiya,CD 
+ 23b0902,Arya Suwalka,AB 
+ 23b0903,Abhi Jain,AB 
+ 23b0904,Prakhar Jain,CC 
+ 23b0905,Sagnik Nandi,CC 
+ 23b0906,Velagala Deeraj Sathvik Reddy,CD 
+ 23b0907,Hari Shankar Karthik,BB 
+ 23b0908,Raghav Goyal,CC 
+ 23b0909,Varri Shyam Sri Vardhan,DD 
+ 23b0911,Kalla Lakshmi Surya,FF 
+ 23b0912,Sanapala Venkata Aditya,AP 
+ 23b0913,Dipen Sojitra,BB 
+ 23b0914,Suvvada Mounisha Naidu,DD 
+ 23b0915,Nandipati Sai Durga Reddy,BB 
+ 23b0916,Vanguri Eshwar,BC 
+ 23b0917,Rajat Das,BB 
+ 23b0918,Banoth Tharun Tej,CD 
+ 23b0919,Yougank Kumar,BB 
+ 23b0920,Maradana Dheeraj Kumar,AB 
+ 23b0921,Ishita,AA 
+ 23b0922,Akshara,AB 
+ 23b0923,Abhineet Majety,BB 
+ 23b0924,Bondala Somanath Vasanth Yadav,AB 
+ 23b0925,Vangapandu Venkata Sai Surya Prakash,BB 
+ 23b0926,Chaitanyaa Mahesh Maheshwari,AB 
+ 23b0927,Gowri K Balakrishnan,AB 
+ 23b0928,Anushka Singhal,BC 
+ 23b0929,Nayakanti Naga Bhavya Sree,BB 
+ 23b0930,Mehul Borad,AB 
+ 23b0931,Haresh Gupta,CD 
+ 23b0932,Tejas Narendra Chaudhari,CC 
+ 23b0933,Sarthak Dhananjay Thakare,AA 
+ 23b0934,Yash Singh,BB 
+ 23b0935,Potnuru Saatvika,BC 
+ 23b0936,Meesala Pranathi Sreeja,DD 
+ 23b0937,Nikhil Narera,AB 
+ 23b0938,Deshank Pratap Singh,BC 
+ 23b0939,Bathula Rithvik,DD 
+ 23b0940,Aditya Neeraje,CC 
+ 23b0941,Maradana Anusri,FF 
+ 23b0942,Dhruv Sanjay Jain,CD 
+ 23b0943,Shaik Sahil Chanda,AA 
+ 23b0944,Aayush Martand Borkar,AA 
+ 23b0945,Akshit Kumar,AB 
+ 23b0946,Itthagoni Sathwik Goud,BC 
+ 23b0947,Akepati Sriya,AP 
+ 23b0948,Kritin Gupta,BC 
+ 23b0949,Kamyak Channa,FF 
+ 23b0950,Harshit Raj,BC 
+ 23b0951,Jatsya Jariwala,BB 
+ 23b0952,Punumalli Lohit Adhitya Sai,BC 
+ 23b0953,Aakash Gupta,AB 
+ 23b0954,Bavurupudi Ritwik,BC 
+ 23b0955,Gulshan Kumar,CD 
+ 23b0956,Siddhant Mulkikar,FF 
+ 23b0957,Kunumalla Gautam Siddharth,CD 
+ 23b0958,Satyam Sinoliya,CC 
+ 23b0960,J Adarsh,AA 
+ 23b0961,Arijit Mandal,CC 
+ 23b0962,Banothu Sonusree,BC 
+ 23b0964,Seemala Varsha,CC 
+ 23b0965,Nakka Mahathi,CC 
+ 23b0966,Ananya Latchupatula,BB 
+ 23b0967,Guduru Adarsh,CC 
+ 23b0968,Suthar Harshul Sanjaybhai,BC 
+ 23b0969,Yakkanti Pani Venkata Maneendhar Reddy,AB 
+ 23b0970,Priyanshu Kumar,AB 
+ 23b0971,Mayank Soni,BB 
+ 23b0972,Komarapu Vivek Vardhan,DD 
+ 23b0973,Sammeta Avaneesh Sai,BC 
+ 23b0974,Krish Gupta,AB 
+ 23b0975,Menda V Venkata Harsha Vardhan,BC 
+ 23b0976,Boyina Sanjana,AA 
+ 23b0977,Keyaan Kartikeya Rajesh,AB 
+ 23b0978,Gowdu Charishma,BB 
+ 23b0979,Satyala Madhu Kiran,BB 
+ 23b0980,Mradul Sonkar,FF 
+ 23b0981,Repudi Akshay Karthik,CC 
+ 23b0982,Navya Garg,AA 
+ 23b0983,Konda Puspa Kumar Reddy,BC 
+ 23b0984,Varala Charishma,AP 
+ 23b0985,Jashanpreet Singh,BB 
+ 23b0986,Tanishq Mahesh Mandhane,CC 
+ 23b0987,Dasari Saketh Naidu,BC 
+ 23b0988,Prabhav Khandelwal,CD 
+ 23b0989,Gaurav Kumar,BC 
+ 23b0990,Pothina Madhav,BB 
+ 23b0991,Shravya Karna,AB 
+ 23b0992,Dumpala Paneendra Nadha Reddy,BC 
+ 23b0993,Kethavath Nithin Naik,BB 
+ 23b0994,Vavilala Chidvilas Reddy,BB 
+ 23b0995,Kunj Bhesaniya,BB 
+ 23b0996,Punit Kumar,AA 
+ 23b0997,Thammaneni Dheeraj,AB 
+ 23b0998,Velamakanni Satwik,BB 
+ 23b0999,Yuvraj Gupta,FF 
+ 23b1000,Paluri Gnana Kousik Reddy,DD 
+ 23b1001,Vadde Shanvitha Reddy,BB 
+ 23b1002,Sasthrula Joel Tenny,AB 
+ 23b1003,Abhinav Singh,BB 
+ 23b1004,Karri Ganga Dhana Sri,CC 
+ 23b1005,Sara Mukherjee,AB 
+ 23b1006,Sandeep Reddy Nallamilli,BB 
+ 23b1007,Shivam Singh Yadav,BB 
+ 23b1008,Jainendrajeet,AB 
+ 23b1009,Udit Sarkar,BB 
+ 23b1010,Pudi Ajay Kumar,AB 
+ 23b1011,Abhilasha Sharma Suman,AB 
+ 23b1012,Burri Gehna Chelvi,BC 
+ 23b1014,Peela Teja Sri,BB 
+ 23b1015,Pinnu Shasank Reddy,CD 
+ 23b1016,Harshil Amitkumar Solanki,BB 
+ 23b1017,Evuri Mohana Sreedhara Reddy,AB 
+ 23b1018,Bikkina Abhinav Chowdary,BB 
+ 23b1019,Chirag Gautam,BC 
+ 23b1020,Chennu Rakesh Kumar Reddy,BC 
+ 23b1021,Sambangi Varshini,DD 
+ 23b1024,Pendurthi Nischal Subhash,BB 
+ 23b1025,Somya Dahiaya,BB 
+ 23b1026,Duggineni Venkata Yugesh,BC 
+ 23b1027,Dola Surya Sai,AA 
+ 23b1028,Ashish Kumar,CD 
+ 23b1029,Karedla Balaji,BB 
+ 23b1030,Vaka Sri Varshitha,AA 
+ 23b1031,Mrunal Shrikant Vairagade,BB 
+ 23b1032,Vysyaraju Srikar Nihal,CD 
+ 23b1033,Chinthaparthi Babu Sujan Reddy,CD 
+ 23b1034,Malay Kedia,BB 
+ 23b1035,Sameer Arvind Patil,BC 
+ 23b1036,Kabir S Prakash,BC 
+ 23b1037,Vennela Yasasvi Naidu,BC 
+ 23b1038,N.K.Vishwaajith,BC 
+ 23b1039,Nenavath Sree Vamshi Madhav,CC 
+ 23b1040,B Shashank,FF 
+ 23b1041,Merchant Dhruvraj Vijaykumar,BB 
+ 23b1042,Sangadi Vijaya Raghavendra,CD 
+ 23b1043,Yash Vikas Sabale,BB 
+ 23b1044,Moulik Jindal,BB 
+ 23b1045,Niral Charan,AA 
+ 23b1046,Kokkiligadda Manaswi,BC 
+ 23b1047,Tapase Aditi Maniklal,CC 
+ 23b1048,Sanchita Chaurasia,AB 
+ 23b1049,Ridam Jain,BB 
+ 23b1050,Ujwal L Shankar,AP 
+ 23b1051,Aman Nehra,AB 
+ 23b1052,Ramachandran S,BB 
+ 23b1053,Aditi Singh,CC 
+ 23b1054,Pathi Nikitha,BC 
+ 23b1055,Sanapala Anirudh,BB 
+ 23b1056,Addagada Venkata Sivaram,DD 
+ 23b1057,Sabil Ahmad,DD 
+ 23b1058,Udtyavath Sai Likhith,BC 
+ 23b1059,Allam Sujay,AA 
+ 23b1060,Madhav R Babu,AB 
+ 23b1061,Devangam Kishan Teja,BC 
+ 23b1062,Ramesh Surya Theja,BC 
+ 23b1063,Gunda Sushanth,AB 
+ 23b1064,Chaudhari Avinash Janardhan,CD 
+ 23b1065,Devang Tibrewal,BB 
+ 23b1066,Kunsoth Chandrashen Nayak,AB 
+ 23b1067,Harsh Suthar,BB 
+ 23b1068,Vaibhav Singh,BC 
+ 23b1069,Uday Gajanan Darade,AB 
+ 23b1070,Bhukya Akkshitha Rathod,BC 
+ 23b1071,Inampudi Harshitha,BB 
+ 23b1072,Ette Hasini,CD 
+ 23b1073,Marumamula Venkata Pranay,CC 
+ 23b1074,Saksham Jain,AA 
+ 23b1075,Shiv Narang,CC 
+ 23b1076,Aryan Mahajan,BC 
+ 23b1077,Bhavya Bansal,BC 
+ 23b1078,Saksham Saharia,BC 
+ 23b1079,Sumedh S S,BB 
+ 23b1080,Shaik Awez Mehtab,BC 
+ 23b1081,Rishi Kalra,AA 
+ 23b1082,Dheeravath Thanuj,BB 
+ 23b1083,Jigyasa Chouhan,CD 
+ 23b1084,Guthikonda Abhiram,BB 
+ 23b1085,Harith S,CD 
+ 23v0066,Hsi Yu Ho,AA 
+ 23b0910,Sonal Kumari,FF 
+ 23b0963,Komrelly Snigdha Reddy,FF 
+ 23b1022,Rayapati Dinesh Sai,CC 
+ 23b1023,Pushpendra Uikey,CD 
+ 24b0098,Haresh Gupta,FF 
+ 
