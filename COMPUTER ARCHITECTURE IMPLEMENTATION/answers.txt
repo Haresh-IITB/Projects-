@@ -1,0 +1,16 @@
+Answer 1 > For the tex.din file N = 82 
+For the cc1.din file N = 225
+For the spice.din file N = 2072
+
+Answer 2> 
+On increasing the cache size : ->  Initially the miss rate decreases , beacuse in direct mapping we take modulo of the address to get the block number and the block number is the index of the cache. So, when the cache size is small , their would be more conflicts and hence more misses. But as the cache size increases the number of conflicts decreases and hence the miss rate decreases. and eventually it becomes constant. 
+
+On increasing the block size :-> miss rate initally reduces due to the principle of spatial locality, But latter increaes , beacuse as the block size would increase , the number of conflicts would increase and hence the miss rate would increase.
+
+Part 3: Associativity vs. Miss Rate
+
+Low Associativity: High miss rates due to limited cache lines, leading to frequent conflict misses.
+
+Increasing Associativity: Sharp decrease in miss rate as more cache lines reduce conflict misses, especially from direct-mapped to 2-way.
+
+And on increasing the associativity further the miss rates remains constant , beacuse of those who were never bought to cache. 

@@ -1,0 +1,4 @@
+# data stall , at the EXE stage of the dadd instr beacuse the value read earlier was wrong , so after the EXE stage of the r2 , A(r0) , It forward the data to dadd ' s EXE stage , causing a stall (RAW) (*****PART 1(a)****)
+# As the r5 is still not computed it causes a data hazard in the ID stage of Branch (***Part2**)
+# This to demonstrate the control stall (SInce this branch is not taken , it causes control stall as the instruction stops and waste one cycle **** (Part 1 (b)) *******
+ # r6 = 10 (EXIT label code)
